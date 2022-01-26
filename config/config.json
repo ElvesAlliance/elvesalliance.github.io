@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x58d34daee29fe96aae2be07dc4a82b6d8e82ded1",
+  "SCAN_LINK": "https://polygonscan.com/address/0x58d34daee29fe96aae2be07dc4a82b6d8e82ded1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Elves Alliance",
+  "SYMBOL": "EA",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/elvesalliance",
+  "SHOW_BACKGROUND": true
+}
